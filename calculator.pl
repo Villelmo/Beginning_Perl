@@ -2,15 +2,19 @@ use strict;
 use warnings;
 use diagnostics;
 
-# declare variables 
-my $var1 = 2;
-my $var2 = 3;
+# declare array
+my @array = (0,1,2,3,4,5,6,7,8,9,10);
 
+# counter 
+my $num = 0; 
 
-# output of the program 
-my $result = $var1 * $var2;
+# print sqrt of values 
+for my $element (@array){
 
-
-print $result;
+	# operation 
+	$element = $element * $num;
+	$num = $num + 1;
+	print $element;
+}
 
 
