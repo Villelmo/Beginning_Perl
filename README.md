@@ -70,5 +70,62 @@ Perl can handle encrypted Web data, including e-commerce transactions.
 
 Perl can be embedded into web servers to speed up processing by as much as 2000%, mod_perl allows the Apache web server to embed a Perl interpreter. 
 
+
+# Perl Download
+
+Getting started quickly
+
+### Perl runs on over 100 platforms!
+
+We recommend that you always run the latest stable version, currently 5.40.0. If you're running a version older than 5.8.3, you may find that the latest version of CPAN modules will not work. 
+
+### Unix
+
+Running Linux, Solaris, AIX, HPUX, or any other UNIX-like system? 
+
+### Binaries
+
+Already Installed
+
+You probably already have perl installed. Type perl -v on a command line to find out which version.
+ActiveState Perl has binary distributions of Perl for many platforms. This is the simplest way to install the latest version of Perl. 
+
+https://www.activestate.com/activeperl/downloads
+
+### Source 
+
+Consider looking at App::perlbrew to help compile and manage Perl from source.
+
+Find out more about the source code, development versions as well as current releases of the Perl source code.
+
+Latest under development source code 
+
+https://www.cpan.org/src/5.0/perl-5.40.0.tar.gz
+
+### Windows
+
+Windows does not have Perl installed by default. 
+
+### Binaries
+
+ActiveState Perl ActiveState offers both a free community version and a commercially supported binary distribution of Perl for Win32 and Perl for Win64. 
+
+http://www.activestate.com/activeperl/downloads
+
+Strawberry Perl: A 100% Open Source Perl for Windows that is exactly the same as Perl everywhere else; this includes using modules from CPAN, without the need for binary packages. Help is available from other Windows Perl developers on the #win32 irc channel on irc.perl.org (see website for access through a browser). 
+
+http://strawberryperl.com/
+
+### Source
+
+Consider looking at App::perlbrew to help compile and manage Perl from source.
+
+Find out more about the source code, development versions as well as current releases of the Perl source code.
+
+Latest under development source code 
+
+https://www.cpan.org/src/5.0/perl-5.40.0.tar.gz
+
+
   
 
